@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Training Butterknife</string>
+
+    <string name="login_debug">[DBG]</string>
+</resources>
